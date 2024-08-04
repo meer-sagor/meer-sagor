@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Full stack development (nodejs, expressjs)**
 
-- 👯 I’m looking to collaborate on [any kind of frontend development](http://meersagor.me)
+- 👯 I’m looking to collaborate on [any kind of frontend development](http://meersagor.com)
 
-- 🤝 I’m looking for help with [any kinds of collaborations or discussions related to frontend development technologies.](http://meersagor.me)
+- 🤝 I’m looking for help with [any kinds of collaborations or discussions related to frontend development technologies.](http://meersagor.com)
 
-- 👨‍💻 All of my projects are available at [http://meersagor.me](http://meersagor.me)
+- 👨‍💻 All of my projects are available at [http://meersagor.com](http://meersagor.com)
 
 - 📝 I regularly write articles on [https://dev.to/@meersagor](https://dev.to/@meersagor)
 
