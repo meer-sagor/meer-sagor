@@ -43,6 +43,7 @@ If you seek a Front-End Alchemist and Software Sorcerer who doesn't just code bu
 <b>📖 Behind the Story of Meer Sagor as a Frontend Developer
 </b>
 </summary>
+<br/>
 My journey began as a general student, passing my **SSC examination in 2019**. Soon after, I joined a computer training program where I learned various skills like composing, photo editing, creating job applications, and designing admission forms. During this time, I started working at a computer store, which sparked my interest in **attracting more customers** and improving services.
 
 When I shared these thoughts with my brother, he encouraged me to **learn programming** to create a news website. This advice marked a turning point in my life. While working full-time at the store, I dedicated my nights to studying **HTML, CSS, and JavaScript**. With this newfound knowledge, I started taking small freelance projects on **Fiverr**.
